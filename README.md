@@ -1,0 +1,1 @@
+O projeto consiste em uma aplicação que utiliza vetores de objetos das classes Aviao e Navio. Cada classe possui atributos específicos e métodos para acessar e manipular esses atributos. Além disso, o programa inclui tratamento de exceções para validar as entradas de dados. É possível reajustar o preço de um avião e obter a relação entre passageiros e tripulantes de um navio.
